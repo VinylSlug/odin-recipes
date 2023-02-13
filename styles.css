@@ -1,0 +1,23 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    font-size: 38px;
+}
+
+#recipe-list {
+    font-size: 24px;
+}
+
+#recipe-list > li {
+    color: black;
+}
+
+img {
+    width: 700px;
+}
+
+a {
+    color: black;
+}
